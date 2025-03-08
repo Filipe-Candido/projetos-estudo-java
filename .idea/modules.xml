@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWord/HelloWord.iml" filepath="$PROJECT_DIR$/HelloWord/HelloWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Soma/Soma.iml" filepath="$PROJECT_DIR$/Soma/Soma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerificaPositivoNegativo/VerificaPositivoNegativo.iml" filepath="$PROJECT_DIR$/VerificaPositivoNegativo/VerificaPositivoNegativo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projetos.iml" filepath="$PROJECT_DIR$/.idea/projetos.iml" />
     </modules>
   </component>
